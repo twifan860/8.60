@@ -1,3 +1,18 @@
+# Modified for TWI 8.60
+link should be https://twifan860.github.io/8.60/#
+![TWI Preview](https://user-images.githubusercontent.com/96718769/147500597-5806a997-3cc4-4c02-b497-33dcd2622ead.png)
+
+Steps:
+1. copy twi chapter 8.60 to `src/twi860.txt`
+1. `cd src/`
+1. `python gen.py`
+1. `npm start`
+
+Others:
+1. to deploy to gh-pages: `npm run deploy`
+1. to debug: change to using `dummy.txt` in `gen.py`
+
+---
 # Discord React Clone
 
 ![Preview](https://i.imgur.com/0UpCir4.gif)
